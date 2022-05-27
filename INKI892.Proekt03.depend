@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653616087 source:c:\code blocks projects\inki892.proekt03\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+
